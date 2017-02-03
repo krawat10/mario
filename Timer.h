@@ -17,5 +17,5 @@ private:
 	double buff;
 };
 
-
+//other comment
 #endif 
